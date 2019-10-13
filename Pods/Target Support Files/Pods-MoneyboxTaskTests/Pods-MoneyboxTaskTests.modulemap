@@ -1,0 +1,6 @@
+framework module Pods_MoneyboxTaskTests {
+  umbrella header "Pods-MoneyboxTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
